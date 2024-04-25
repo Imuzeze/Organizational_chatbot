@@ -1,1 +1,1 @@
-# Organizational_chatbot
+This project is a chatbot designed to interact with users via text input. The chatbot utilizes natural language processing and machine learning techniques to understand user inquiries and provide relevant responses
