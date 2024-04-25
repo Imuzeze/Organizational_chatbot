@@ -153,3 +153,6 @@ history = pd.DataFrame({'User Input': data1, 'Bot Reply': data2})
 st.subheader('Chat History', divider = True)
 st.dataframe(history, use_container_width = True)
 #st.sidebar.write(data2)
+
+if st.button('Clear Chat History'):
+    clearHistory()
